@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userprocess",
+        "uuid": 6522152,
+        "checksum": "54rdq"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
